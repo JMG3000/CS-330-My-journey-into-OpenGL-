@@ -1,4 +1,4 @@
-# CS-330
+# CS-330 Comp. Graphics and Visualizations
 This is my journey into the wild world of 3-D graphics rendering using OpenGL and C++.
 
 ## I was given these questions for my reflection for the last week of this course.
